@@ -1,6 +1,7 @@
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/157/358/medium/aisleen-romano-ccs.jpg?1593636198)]
 <h1 align="center">Hi 👋, I'm Kaijun</h1>
 <h3 align="center">A passionate software developer in Seattle</h3>
-<img align="right alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 - 🌱 I’m currently learning **object-oriended design with Python and Java**
 
