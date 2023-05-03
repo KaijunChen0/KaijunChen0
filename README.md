@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEQ8khsoBUU4A/profile-displaybackgroundimage-shrink_350_1400/0/1672178935365?e=1683763200&v=beta&t=ZI9huTumYiA6t4tT9xN0DqEYDm5VR5B5Y9fCosfphJk)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEC7Ofbd6MImw/profile-displaybackgroundimage-shrink_350_1400/0/1683063531260?e=1688601600&v=beta&t=0XiLl3GQ2gfBW5qotNvjQgnGNqKFdUkRZWzPZxkcPQI)
 <h1 align="center">Hi 👋, I'm Kaijun</h1>
 <h3 align="center">A passionate software developer in Seattle</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
