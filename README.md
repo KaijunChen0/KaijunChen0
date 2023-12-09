@@ -5,14 +5,15 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaijunChen0/academic-projects](https://github.com/KaijunChen0/academic-projects)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/KaijunChen0?tab=repositories)
 
-- 📄 Know about my experiences [linkedin.com/in/kaijun-chen](linkedin.com/in/kaijun-chen)
+- 📄 Know about my experiences [Linkedin](linkedin.com/in/kaijun-chen)
 
-- ⚡ Fun fact **🍰 bakery lover 🍬 candy crush saga fan!!**
+- ⚡ Fun fact **Guinea pig person!! 🍰 bakery lover 🍬 candy crush saga fan!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Email: chen.kaijun@outlook.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
