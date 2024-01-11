@@ -8,13 +8,13 @@
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/KaijunChen0?tab=repositories)
 - 📫 How to reach me **chen.kaijun@outlook.com**
 
-- 📄 Know about my experiences [Connect with me LinkedIn](linkedin.com/in/kaijun-chen)
+- 📄 Know about my experiences [Connect with me LinkedIn](https://www.linkedin.com/in/kaijun-chen/)
 
 - ⚡ Fun fact **🌱 Guinea pig person 🍰 bakery lover 🍬 candy crush saga fan!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaijun-chen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaijun-chen/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaijun-chen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaijun-chen/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
