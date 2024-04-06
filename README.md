@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kaijun</h1>
 <h3 align="center">A passionate software engineer in Seattle</h3>
 
-- 🔭 I’m currently working on [Data Tool and AI Solution Build](https://github.com/KaijunChen0/GildedRoseKataPython)
+- 🔭 I’m currently working on [Case Management AI Tool](https://github.com/CaseManagementAI/team-neu-weixinliu618-kaijunchen0-jackie1457) for CaseManagementAI.
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/KaijunChen0?tab=repositories)
 - 📫 How to reach me **chen.kaijun@outlook.com**
